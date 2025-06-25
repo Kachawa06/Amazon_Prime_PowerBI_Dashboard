@@ -1,6 +1,6 @@
 # 🎬 Amazon Prime Power BI Dashboard
 
-![Dashboard Preview](/Amzon_Prime_Dashboard.png)
+![Dashboard Preview](Amzon_Prime_Dashboard.png)
 
 An interactive Power BI dashboard built using the Amazon Prime Movies and TV Shows dataset from [Kaggle](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows). This project explores insights into content trends, genre popularity, country distribution, and more.
 
